@@ -1,8 +1,8 @@
-package hackerrank
+package hackerrank.problemsolving
 
 import java.util.*
 
-fun solveMeFirst(num1: Int, num2: Int): Int = num1 + num2
+fun solveMeFirst(num1: Int, num2: Int) = num1 + num2
 
 fun main(args: Array<String>) {
     val sc = Scanner(System.`in`)
