@@ -2,11 +2,7 @@ package hackerrank
 
 import java.util.*
 
-fun solveMeFirst(num1: Int, num2: Int): Int {
-    var sum = 0
-    sum = num1 + num2
-    return sum
-}
+fun solveMeFirst(num1: Int, num2: Int): Int = num1 + num2
 
 fun main(args: Array<String>) {
     val sc = Scanner(System.`in`)
