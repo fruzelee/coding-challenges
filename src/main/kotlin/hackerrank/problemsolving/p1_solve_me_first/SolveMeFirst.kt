@@ -1,4 +1,4 @@
-package hackerrank.problemsolving
+package hackerrank.problemsolving.p1_solve_me_first
 
 import java.util.*
 
